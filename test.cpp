@@ -3,11 +3,11 @@
 
 
 #include <iostream>
-using std::cout;
-using std::endl;
+//using std::cout;
+//using std::endl;
 
 int main(){
-	cout << "Game Over!" << endl;
+	std::cout << "Game Over!" << std::endl;
 
 	return 0;
 }
